@@ -6,5 +6,5 @@ Heya.
 gangubai is a lady gangster movie
 music can hold me calm.
 and what about you?
-
+Html is used to creat static web pages
 
